@@ -9,10 +9,10 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "janu-bot",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100014896964436",
+    "61558336351586",
     "100000959749712"
   ],
   "ADMINBOT": [
