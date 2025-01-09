@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "janu-bot",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "OPERATOR": [
     "61558336351586",
     "100000959749712"
